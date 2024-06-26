@@ -1,0 +1,19 @@
+{
+  "canisters": {
+    "dzien1_frontend": {
+      "source": [
+        "src/dzien1_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "dzien1_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
